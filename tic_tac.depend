@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608325520 source:e:\pure_mth_cs_3\cpp\sections\tic_tac\main.cpp
+	<iostream>
+	<chrono>
+
+1608325520 source:e:\pure_mth_cs_3\first_term\cpp\sections\tic_tac\main.cpp
+	<iostream>
+	<chrono>
+
